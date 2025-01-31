@@ -150,7 +150,7 @@ const classDates = [
     { date: "February 6, 2025 10:15:00", className: "Values Education 3" },
     { date: "February 6, 2025 12:45:00", className: "Introduction to the Philosophy of the Human Person" },
     { date: "February 7, 2025 10:15:00", className: "Physical Education And Health 4" },
-    { date: "February 7, 2025 12:45:00", className: "General Physics 2" }
+    { date: "February 7, 2025 11:15:00", className: "General Physics 2" }
 ];
 
 // Function to get the next class date
