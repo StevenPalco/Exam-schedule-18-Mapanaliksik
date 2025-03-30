@@ -142,15 +142,15 @@ updateBackground();
 
 // Get all the class dates and times
 const classDates = [
-    { date: "February 4, 2025 10:00:00", className: "Research Capstone" },
-    { date: "February 4, 2025 12:45:00", className: "Entrepreneurship" },
-    { date: "February 5, 2025 10:00:00", className: "Inquiries, Investigations, And Immersion" },
-    { date: "February 5, 2025 11:15:00", className: "General Chemistry 2" },
-    { date: "February 5, 2025 12:45:00", className: "Media and Information Literacy" },
-    { date: "February 6, 2025 10:00:00", className: "Values Education 3" },
-    { date: "February 6, 2025 12:45:00", className: "Introduction to the Philosophy of the Human Person" },
-    { date: "February 7, 2025 10:00:00", className: "Physical Education And Health 4" },
-    { date: "February 7, 2025 11:15:00", className: "General Physics 2" }
+    { date: "April 3, 2025 10:00:00", className: "Research Capstone" },
+    { date: "April 3, 2025 12:45:00", className: "Media and Information Literacy" },
+    { date: "April 4, 2025 10:00:00", className: "Introduction to the Philosophy of thr Human Person" },
+    { date: "April 4, 2025 11:15:00", className: "General Physics 2" },
+    { date: "April 4, 2025 12:45:00", className: "Entrepreneurship" },
+    { date: "April 7, 2025 10:00:00", className: "Values Education 3" },
+    { date: "April 7, 2025 12:45:00", className: "Inquiries, Investigations and Immersion" },
+    { date: "April 8, 2025 10:00:00", className: "Physical Education And Health 4" },
+    { date: "April 8, 2025 11:15:00", className: "General Chemistry 2" }
 ];
 
 // Function to get the next class date
